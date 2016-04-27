@@ -4,27 +4,27 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Albion Armory: Cebuano's AOE Tank. (Simplified)"
-datePublished: '2016-04-27T06:22:37.635Z'
-dateModified: '2016-04-27T06:22:36.770Z'
+description: ''
+datePublished: '2016-04-27T06:37:05.480Z'
+dateModified: '2016-04-27T06:37:04.244Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-albion-armory-cebuanos-aoe-tank-simplified.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-27-albion-armory-cebuanos-aoe-tank-simplified.md
-published: true
+starred: true
 url: albion-armory-cebuanos-aoe-tank-simplified/index.html
 _type: Article
 
 ---
-Albion Armory: Cebuano's AOE Tank. (Simplified)
+> **Albion Armory: Cebuano's AOE Tank. (Simplified)**
 
-> _This topic could only be accurate and relevant until the end of Albion Online's Closed Beta._
+_This topic could only be accurate and relevant until the end of Albion Online's Closed Beta._
 
 * Quick Glympse
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9b2960f-675d-4622-840e-65b84594df3e.png)
