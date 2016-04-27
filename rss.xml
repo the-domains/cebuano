@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cebuano]]></title>
-        <description><![CDATA[Cebuano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Cebuano's Albion Online Adventures]]></title>
+        <description><![CDATA[Cebuano's Albion Online Adventures]]></description>
+        <link>https://thegrid.ai/cebuano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 06:22:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 06:37:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cebuano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Albion Armory: Cebuano's AOE Tank. (Simplified)</p>]]></description>
-            <link>undefinedalbion-armory-cebuanos-aoe-tank-simplified/index.html</link>
+            <link>https://thegrid.ai/cebuano/albion-armory-cebuanos-aoe-tank-simplified/index.html</link>
             <guid isPermaLink="false">ab3db353-b546-45ed-b5e5-b888f0a76ca6</guid>
-            <pubDate>Wed, 27 Apr 2016 06:22:37 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 06:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
